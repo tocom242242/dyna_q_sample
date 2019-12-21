@@ -10,5 +10,3 @@ git clone https://github.com/tocom242242/dyna_q_sample.git
 ```
 python run.py
 ```
-## blog
-https://www.tcom242242.net/entry/2019/04/09/205648
